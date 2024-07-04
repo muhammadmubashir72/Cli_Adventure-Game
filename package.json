@@ -1,7 +1,7 @@
 {
   "name": "mubashir516_cli-adventure-game",
-  "version": "1.0.0",
-  "description": "",
+  "version": "3.0.0",
+  "description": "I am creating the Cli Adventure Game system using the typescript,inquirer,chalk and math function",
   "main": "index.js",
   "type": "module",
   "bin": "adventureGame.js",
@@ -14,5 +14,8 @@
   "dependencies": {
     "chalk": "^5.3.0",
     "inquirer": "^9.3.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
   }
 }
